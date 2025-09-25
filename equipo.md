@@ -1,1 +1,2 @@
-"La simplificacion es la m xima satisfacci¢n" 
+"La simplificacion es la mï¿½xima satisfacciï¿½n" 
+"Estamos generando un conflicto con este mensaje" 
